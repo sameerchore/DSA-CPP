@@ -1,0 +1,36 @@
+1.Powering-done
+2.Pairing-done
+
+3.Vector:
+i.initializing-done
+ii.back_push-done-done
+iii.front-done
+iv.back-done
+v.erase-done
+vi.clear -done
+vii.insertion-done
+
+4.List(its insertion/deletion is fast but random acess is slow)-done
+4.1 push_front()-doen(pop,push,swap,size,empty)
+4.2 push_back()
+
+4.dequeue(sme as list but in dequeue-random acess provided but insertion,deletion is slow)-done
+4.1 push_front()-doen(pop,push,swap,size,empty)
+4.2 push_back()
+
+Always prefer dequeue over list in CP.
+
+5.Stack-done(pop,push,swap,size,empty)-done
+6.Priority Queue(Stores highest element at the top)-done
+
+
+6.set container
+-insert-done
+-count-done
+-find-done
+-erase-done
+-lower_bound-done
+-upper_bound-done
+
+
+7.
