@@ -38,3 +38,25 @@ Always prefer dequeue over list in CP.
 -lower,upper same in this too
 -find
 -erase(all erase duplicate,specifi 1st copy delete)
+
+
+8.unorder_set:Store unique element but in unordered way
+-find : it has O(1) time complexity thats reson we use for it
+
+9.map-done
+-insert,map[key]=value
+-find
+-value
+-size
+-lowerbound>=
+-upper_bound>
+
+10.unoderedmap-done :same as map but store in unodered way
+11.multimap-store duplicate key in sorted way
+
+12.Function/Algo
+-sort:array,vector both can be sort
+-accumulate
+-count
+-find
+-next_permutation
