@@ -7,7 +7,7 @@ void setEx(){
  st.insert(10);
  st.insert(10);
  st.insert(0);
- st.insert(5);
+ st.insert(5); 
  st.insert(1);
  st.insert(18);
  st.insert(1);
